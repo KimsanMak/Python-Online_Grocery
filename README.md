@@ -1,10 +1,10 @@
-# Data Analysis of Instacart Online Online Grocery Business Using Python
+# Instacart Online Online Grocery
 
 ## Overview
 This repository contains some examples of Python scripts that I used to analyse the customer segmentation of an online grocery store for sales and marketing strategies. I conducted data exploratory and analysis using Python.
 
 ## Objective
-Analysis of sales and customer data, and recommend strategies for better customer segmentation.
+Analysed sales and customer data, and recommended strategies for better customer segmentation.
 
 Key questions to be answered:
 1. When are the busiest days of the week and the busiest hours of the day? On order to fine-tune the advertisement scheduling.
